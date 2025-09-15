@@ -17,3 +17,10 @@ Yapay zekâ destekli, dosya veya metin yükleyerek **Türk hukukunda otomatik me
 ```bash
 git clone https://github.com/kemoagaben/hukuk-asistan.git
 cd hukuk-asistan
+
+
+## Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+
+
